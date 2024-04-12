@@ -1,0 +1,2 @@
+def userFunction(number):
+    return(number%2,number)
